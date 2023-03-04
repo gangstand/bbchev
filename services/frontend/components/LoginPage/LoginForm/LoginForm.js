@@ -29,9 +29,9 @@ const LoginForm = ({seriealizeErrors, onLoginSubmit, isLoading, error}) => {
                         <span className="reg-title__line"><Text content="Welcome back" /></span>
                         <span className="reg-title__line">
                             <Text content="to" /> {' '}
-                            <Link href='/' className="logo-icon logo-icon--login">kib<span className="green">t</span>
-                                                <span className="yellow">o</span>
-                                                <span className="blue">p</span>
+                            <Link href='/' className="logo-icon logo-icon--login">bbc<span className="green">h</span>
+                                                <span className="yellow">e</span>
+                                                <span className="blue">v</span>
                             </Link>
                         </span>
                     </h1>

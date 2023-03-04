@@ -27,9 +27,9 @@ const Settings = () => {
 
                 <div className="container">
                     <nav className="settings">
-                        <Link href="/profile/settings/locale" className="settings__link">
-                            <Text content="language and currency" />
-                        </Link>
+                        {/*<Link href="/profile/settings/locale" className="settings__link">*/}
+                        {/*    <Text content="language and currency" />*/}
+                        {/*</Link>*/}
 
                         <Link href="" className="settings__link">
                             <Text content="Website advertising" />
